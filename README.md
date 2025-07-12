@@ -178,10 +178,13 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 4
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Harsh Parikh**
-- GitHub: [@HarshParikh0810](https://github.com/HarshParikh0810)
+**Development Team:**
+- **Harshvardhan Parikh** - GitHub: [@HarshParikh0810](https://github.com/HarshParikh0810)
+- **Ayush Thakkar**
+- **Heer Trivedi**
+- **Hiya Gandhi**
 
 ## 🆘 Support
 
