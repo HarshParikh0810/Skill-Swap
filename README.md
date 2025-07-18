@@ -32,7 +32,7 @@ Skill-Swap/
 - **Backend**: FastAPI (Python 3.12+)
 - **Authentication**: OAuth2, JWT
 - **ML Model**: Sentence Transformers + Cosine Similarity
-- **Database**: SQLite / PostgreSQL (optional)
+- **Database**:  PostgreSQL 
 - **API Documentation**: Swagger UI (auto-generated)
 - **Language**: Python 3.12+
 
